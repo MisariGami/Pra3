@@ -1,3 +1,6 @@
+# 20CE029 Misari Gami
+# GitHub repository link : https://github.com/MisariGami/Pra3/edit/main/Pra3.py
+
 # Mr. Anant is the manager at the INFINITE hotel. The hotel has an infinite amount of rooms.
 # One fine day, a finite number of tourists come to stay at the hotel.
 # The tourists consist of:
